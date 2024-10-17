@@ -1,0 +1,93 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.top-header {
+    background-color: rgb(0, 153, 255);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
+.wrapper {
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(139, 201, 243);
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: white;
+    padding: 10px 0;
+    border-right: 2px solid rgb(0, 153, 255);
+}
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+.menu li {
+    margin: 15px 0;
+}
+.menu a {
+    text-decoration: none;
+    color: rgb(0, 153, 255);
+    font-weight: bold;
+    padding: 10px;
+    display: block;
+    transition: background-color 0.3s, color 0.3s;
+}
+.menu a:hover {
+    background-color: rgb(0, 153, 255);
+    color: white;
+    border-radius: 5px;
+}
+.header {
+    max-width: 100%;
+    height: auto; 
+}
+.header img {
+    width: 100%;   
+    height: auto;  
+    object-fit: cover; 
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+    margin: 20px; 
+    display: flex; 
+    justify-content: space-between; /* Para distribuir os itens lado a lado */
+}
+.cont {
+    background-color: white; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    padding: 20px; 
+    width: 48%; /* Ajustado para ocupar quase a largura total */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+}
+.cont p {
+    margin: 0 0 15px; /* Espaçamento entre os parágrafos */
+}
+.footer {
+    background-color: rgb(174, 173, 175);
+    min-height: 150px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
