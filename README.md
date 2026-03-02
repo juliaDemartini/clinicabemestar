@@ -1,3 +1,4 @@
+![Julia Demartini](./local.png)
 # 🏥 Clínica Bem-Estar
 
 Este é um projeto de interface web desenvolvido para uma clínica de saúde, focado em proporcionar uma experiência de usuário limpa, intuitiva e totalmente responsiva. O objetivo principal foi aplicar boas práticas de semântica HTML e estruturação de layouts modernos para o setor de saúde.
