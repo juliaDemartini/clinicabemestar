@@ -4,14 +4,6 @@ Este é um projeto de interface web desenvolvido para uma clínica de saúde, fo
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-
-O projeto foi construído utilizando as bases fundamentais do desenvolvimento web:
-
-* **HTML5:** e **CSS3:** 
-
----
-
 ## 🛠️ Funcionalidades
 
 * **Página Inicial:** Apresentação institucional com chamadas para ação (CTA).
