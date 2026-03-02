@@ -8,9 +8,7 @@ Este é um projeto de interface web desenvolvido para uma clínica de saúde, fo
 
 O projeto foi construído utilizando as bases fundamentais do desenvolvimento web:
 
-* **HTML5:** Estruturação semântica voltada para SEO e acessibilidade.
-* **CSS3:** Estilização moderna, utilizando Flexbox e Grid Layout.
-* **Design Responsivo:** Adaptabilidade para diferentes tamanhos de tela (Mobile, Tablet e Desktop).
+* **HTML5:** e **CSS3:** 
 
 ---
 
@@ -25,6 +23,8 @@ O projeto foi construído utilizando as bases fundamentais do desenvolvimento we
 ---
 
 ## 📂 Como visualizar o projeto
+
+🔗 https://juliademartini.github.io/clinicabemestar/
 
 Para rodar o projeto localmente em sua máquina, siga os passos abaixo:
 
